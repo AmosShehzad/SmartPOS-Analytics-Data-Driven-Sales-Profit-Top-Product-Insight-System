@@ -1,0 +1,5 @@
+customtkinter>=5.2.0
+pillow>=9.5.0
+reportlab>=4.0.0
+openpyxl
+tkcalendar>=1.6.1

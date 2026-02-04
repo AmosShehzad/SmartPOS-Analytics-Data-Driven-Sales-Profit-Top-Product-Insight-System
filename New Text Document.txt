@@ -1,0 +1,15 @@
+after installing python
+
+pip install -r requirements.txt
+
+then 
+
+main.py chala kr wesay hi test kr liya ke chal raha ke nahi
+
+then 
+
+pip install pyinstaller
+
+then 
+
+pyinstaller main_page.py --onefile --noconsole --icon=appicon.ico
