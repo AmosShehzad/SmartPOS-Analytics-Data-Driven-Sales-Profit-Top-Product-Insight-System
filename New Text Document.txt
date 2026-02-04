@@ -4,7 +4,7 @@ pip install -r requirements.txt
 
 then 
 
-main.py chala kr wesay hi test kr liya ke chal raha ke nahi
+run main.py chala
 
 then 
 
